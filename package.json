@@ -38,6 +38,7 @@
     "url": "git+https://github.com/uempty/uempty.github.io"
   },
   "scripts": {
+    "create": "gatsby-post-gen",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
